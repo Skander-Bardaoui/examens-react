@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the capital of France ?",
+      "options": [
+        "Lyon",
+        "Marseille",
+        "Paris"
+      ],
+      "correctAnswer": 2,
+      "subject": "Geography"
+    },
+    {
+      "id": "2",
+      "question": "What is the result of 3 x 4 ?",
+      "options": [
+        "7",
+        "12",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "id": "aedd",
+      "question": "nari",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "subject": "Mathematics"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

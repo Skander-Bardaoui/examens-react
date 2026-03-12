@@ -1,0 +1,18 @@
+{
+    "projects": [
+      {
+        "id": "1",
+        "name": "Migration Cloud",
+        "status": "en cours",
+        "priority": "haute",
+        "deadline": "2025-06-01"
+      },
+      {
+        "id": "2",
+        "name": "Refonte UI",
+        "status": "terminé",
+        "priority": "moyenne",
+        "deadline": "2024-12-15"
+      }
+    ]
+  }
